@@ -17,7 +17,8 @@
 
 ### 📊 GitHub Stats
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanKarakolev&show_icons=true&theme=radical)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotelski&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotelski&layout=compact&theme=graywhite&hide_border=true)
 
 ---
 

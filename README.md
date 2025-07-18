@@ -4,8 +4,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/IvanKarakolev?label=Follow&style=social)
 
----
-
 ### 💡 About Me
 
 - 🔬 I'm an **Image Quality Engineer** focused on analyzing and improving imaging systems at scale.
@@ -13,8 +11,9 @@
 - 🧠 Strong interest in **perceptual image quality**, visual fidelity, and signal processing.
 - 🛠️ Experienced in building analysis tools using **Python**, automating evaluation pipelines, and interpreting data visually.
 - 🚀 I'm currently training to become a **Python Full-Stack Developer**.
-- 🎧 Fun stuff - when I'm not tuning imaging algorithms, I’m either deep in a Stephen King novel or vibing to **Taylor Swift** & **Lana Del Rey** *("I'm a nightmare dressed like a daydream"… but for image artifacts.)*
-- 📫 Connect with me - [LinkedIn – Ivan Karakolev](https://www.linkedin.com/in/ivan-karakolev-ab5878170/)
+- 🎧 Fun stuff: When I'm not tuning imaging algorithms, I’m either deep in a Stephen King novel or vibing to **Taylor Swift** & **Lana Del Rey**
+*("I'm a nightmare dressed like a daydream"… but for image artifacts.)*
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ivan-karakolev-ab5878170/)
 ---
 
 ### 📊 GitHub Stats

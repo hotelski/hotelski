@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ivan
+# 👋 Hi there, I'm Ivan
 
 ### 🖼️ Image Quality Engineer | 🎓 Mathematician & Computer Graphics Specialist | 🐍 Python Enthusiast
 
@@ -12,7 +12,9 @@
 - 📚 Academic background in **Mathematics** and **Computer Graphics** - blending theory with practical skills.
 - 🧠 Strong interest in **perceptual image quality**, visual fidelity, and signal processing.
 - 🛠️ Experienced in building analysis tools using **Python**, automating evaluation pipelines, and interpreting data visually.
-- 🚀 I've completed various specialized **Python development courses**, strengthening my full-stack capabilities and preparing me to build complete web applications from backend to frontend.
+- 🚀 I'm currently training to become a **Python Full-Stack Developer**.
+- 🎧 Fun stuff - when I'm not tuning imaging algorithms, I’m either deep in a Stephen King novel or vibing to **Taylor Swift** & **Lana Del Rey** *("I'm a nightmare dressed like a daydream"… but for image artifacts.)*
+- 📫 Connect with me - [LinkedIn – Ivan Karakolev](https://www.linkedin.com/in/ivan-karakolev-ab5878170/)
 ---
 
 ### 📊 GitHub Stats
@@ -30,18 +32,3 @@
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<br>
-
----
-
-### 🎧 Fun Stuff
-
-> When I'm not tuning imaging algorithms, I’m either deep in a Stephen King novel or vibing to **Taylor Swift** & **Lana Del Rey**  
-> *("I'm a nightmare dressed like a daydream"… but for image artifacts.)*
-
----
-
-### 📫 Connect With Me
-
-- 💼 [LinkedIn – Ivan Karakolev](https://www.linkedin.com/in/ivan-karakolev-ab5878170/)
-

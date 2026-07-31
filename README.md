@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ivan
-- 🚀 I am a **Python Full-Stack Developer** focused on building modern, practical, and user-friendly applications.
+- 🚀 I am a **Python Full-Stack Development** graduate focused on building modern, practical, and user-friendly applications.
 - 🔬 My background includes working as a **Senior Image Quality Engineer**, developing tools and evaluating complex imaging systems.
 - 🎓 Academic background in **Mathematics and Computer Graphics**, complemented by professional training in **Python Full-Stack Development**.
 - 🧠 Strong interest in **perceptual image quality**, visual fidelity, and signal processing.

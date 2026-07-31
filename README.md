@@ -11,8 +11,18 @@
 
 ### 📊 GitHub Stats
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotelski&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotelski&layout=compact&theme=graywhite&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hotelski&theme=github"
+    alt="Ivan's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hotelski&theme=github"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
 ### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages & Tools:
 

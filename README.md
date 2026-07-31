@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Ivan
-- 🔬 I'm an **Image Quality Engineer** focused on analyzing and improving imaging systems at scale.
-- 📚 Academic background in **Mathematics** and **Computer Graphics** - blending theory with practical skills.
+- 🚀 I am a **Python Full-Stack Developer** focused on building modern, practical, and user-friendly applications.
+- 🔬 My background includes working as a **Senior Image Quality Engineer**, developing tools and evaluating complex imaging systems.
+- 🎓 Academic background in **Mathematics and Computer Graphics**, complemented by professional training in **Python Full-Stack Development**.
 - 🧠 Strong interest in **perceptual image quality**, visual fidelity, and signal processing.
+- 🤖 Also interested in **Software Engineering, AI, Data Engineering, Computer Vision, and developer tools**.
 - 🛠️ Experienced in building analysis tools using **Python**, automating evaluation pipelines, and interpreting data visually.
-- 🚀 I'm currently training to become a **Python Full-Stack Developer**.
-- 🎧 Fun stuff: When I'm not tuning imaging algorithms, I’m either deep in a Stephen King novel or <br> vibing to **Taylor Swift** & **Lana Del Rey**
-*("I'm a nightmare dressed like a daydream"… but for image artifacts.)*
+- 🎧 Outside of tech, you’ll usually find me reading a Stephen King novel or listening to **Taylor Swift** and **Lana Del Rey**.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ivan-karakolev/)
 ---
 
